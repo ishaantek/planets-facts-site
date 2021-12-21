@@ -5,7 +5,7 @@ A powerful website that details some information about celestial bodies, aka pla
 
 Made by [Ishaan Garg](https://twitter.com/allaboutishaan)
 
-[comment]: <> (ProductHunt link here)
+<a href="https://www.producthunt.com/posts/planets-facts-site?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-planets-facts-site" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=323781&theme=dark" alt="Planets Facts Site - A powerful website that details information about planets. | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
 ## Table of contents
 - [Planet's Facts Site](#planets-facts-site)
