@@ -3,7 +3,7 @@
 <br>
 A powerful website that details some information about celestial bodies, aka planets
 
-Made by [Ishaan Garg](https://twitter.com/allaboutishaan)
+Made by [Ishaan Garg](https://twitter.com/ishaantek)
 
 <a href="https://www.producthunt.com/posts/planets-facts-site?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-planets-facts-site" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=323781&theme=dark" alt="Planets Facts Site - A powerful website that details information about planets. | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
@@ -16,7 +16,7 @@ Made by [Ishaan Garg](https://twitter.com/allaboutishaan)
 ## Installation
 If you want to self host this project, the first step is to clone this repo.
 ```
-git clone https://github.com/allaboutishaan/planets-facts-site.git
+git clone https://github.com/ishaantek/planets-facts-site.git
 ```
 After cloning, run an
 ```
@@ -40,4 +40,4 @@ That's it! Once you start the project, it should open up in your browser.
 - Styled Components
 
 #
- Feel free to reach out to me through email at ishaan@allaboutishaan.com or [on Twitter](https://twitter.com/allaboutishaan) if you have any questions or feedback! Hope you find this useful 💙
+ Feel free to reach out to me through email at ishaan@ishaantek.com or [on Twitter](https://twitter.com/ishaantek) if you have any questions or feedback! Hope you find this useful 💙
